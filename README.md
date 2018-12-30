@@ -1,4 +1,4 @@
-# simulador-renda-fixa
+# calculadora-renda-fixa
 
 ## Project setup
 ```
