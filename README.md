@@ -30,4 +30,4 @@ npm run test
 ### Lints and fixes files
 ```JavaScript
 npm run lint
-``
+```
