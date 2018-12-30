@@ -8,29 +8,26 @@
 
 
 ## Project setup
-```
+```JavaScript
 npm install
 ```
 
 ### Compiles and hot-reloads for development
-```
+```JavaScript
 npm run serve
 ```
 
 ### Compiles and minifies for production
-```
+```JavaScript
 npm run build
 ```
 
 ### Run your tests
-```
+```JavaScript
 npm run test
 ```
 
 ### Lints and fixes files
-```
+```JavaScript
 npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+``
